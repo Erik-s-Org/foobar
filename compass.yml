@@ -1,0 +1,19 @@
+name: foobar
+id: ari:cloud:compass:a6c3e0a8-122e-42b5-8f42-49e57f4363d8:component/381cf4dc-bd91-41db-827d-9076e88de008/df638f8e-6733-49e5-9385-ceed3d74e26c
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Erik-s-Org/foobar
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: Weight Distribution
+    type: text
+    value: null
